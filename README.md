@@ -1,1 +1,1 @@
-# sequencingAnalisys
+# sequencingAnalysis
