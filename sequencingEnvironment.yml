@@ -1,0 +1,28 @@
+channels:
+  - conda-forge
+  - defaults
+  - bioconda
+dependencies:
+  - python=3.8
+  - pip=21.2.2
+  - matplotlib==3.4.3
+  - numpy==1.21.5
+  - pandas==1.3.5
+  - tqdm==4.62.3
+  - biopython==1.78
+  - ipykernel
+  - openpyxl
+  - nbconvert
+  - openjdk==11
+  - jupyter
+  - gsutil
+  - spyder-kernels==1.10.2
+  - ipython_genutils==0.2.0
+  - qtconsole=5.0
+  - multiqc
+  - trimmomatic
+  - samtools
+  - bbtools
+  - bbmap
+  - bwa
+  - gatk
